@@ -7,16 +7,16 @@
       "reminder": false
     },
     {
-      "id": "3",
-      "text": "Food shopping",
-      "day": "March 7th at 2:00pm",
-      "reminder": true
-    },
-    {
       "text": "Be awesome",
       "day": "24/7 365",
       "reminder": false,
       "id": "XCwOHrh"
+    },
+    {
+      "text": "Testing",
+      "day": "24/7 365",
+      "reminder": false,
+      "id": "zO8YCkZ"
     }
   ]
 }
